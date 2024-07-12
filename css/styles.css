@@ -427,11 +427,10 @@ img {
 
 .footer-logo-content {
   margin-right: 120px;
-  align-items: baseline;
 }
 
 .footer-soc {
-  align-items: center;
+  align-items: baseline;
   justify-content: center;
 }
 
