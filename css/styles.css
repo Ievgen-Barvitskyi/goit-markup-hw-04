@@ -423,7 +423,11 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
+}
+
+.footer-logo-content {
   margin-right: 120px;
+  align-items: baseline;
 }
 
 .footer-soc {
@@ -474,5 +478,5 @@ img {
 }
 
 .footer-icon-soc-picture {
-  fill: white;
+  fill: #f4f4fd;
 }
