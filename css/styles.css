@@ -430,7 +430,6 @@ img {
 }
 
 .footer-soc {
-  align-items: baseline;
   justify-content: center;
 }
 
@@ -446,6 +445,7 @@ img {
 
 .container.footer-content {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-icon-soc-list {
